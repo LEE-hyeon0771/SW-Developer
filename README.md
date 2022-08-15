@@ -1,14 +1,17 @@
-#SW Developer
-#### 팀명: 모두
-#### 프로젝트명: 모두의 키오스크
+# SW Developer
+
+### 팀명: 모두
+### 프로젝트명: 모두의 키오스크
 
 
-# 대표 이미지
+## 대표 이미지
 
 ## 팀(원) 소개
 | ![](https://github.com/LEE-Hyeon0771.png) |  ![](https://github.com/loosainfjn.png) |
 | :--------------------------------------: | :--------------------------------------: |
 |             **이현<br>(Android Developer)<br>연세대학교 미래캠퍼스**              |            **조하연<br>(Designer, UX/UI, marketer)<br>광운대학교**             |
+
+
 # 프로젝트 배경/목표
 
 4차산업혁명이 가속화되면서 가게의 무인 자동화 시장은 더 빠르게 발전하고, IT 강국이라는 이름으로 세계 최고의 인터넷 보급률을 가지고 있는 대한민국은 코로나19로 인해 언택트 문화를 가속화하고 있다. 현재 그 안에서, 대다수 가게가 키오스크를 도입해 비대면 결제로 전환하고 있고, 편익을 추구하고자 자동화라는 이름으로 모든 사람을 기계 한 대로 대체해 서비스 하려 하지만, 한편으로는 이와 같은 전환이 사회의 디지털 소외계층이라고 불리는 저소득층, 장애인, 농/어민, 장/노년층의 사회적 정보 취약 계층과의 간극을 더 크게 만들고 있어 문제가 되고 있다.
@@ -27,12 +30,15 @@
 
 # 개발/배포 환경
 ![KakaoTalk_20220802_123402749](https://user-images.githubusercontent.com/84756586/184561291-93a4f8ac-07dd-40ef-baa2-9e87ec479f98.png)
-![KakaoTalk_20220802_123421372](https://user-images.githubusercontent.com/84756586/184561305-850f2768-d524-475b-9cbc-c2362aa1a88b.png)>
-![KakaoTalk_20220802_123438263](https://user-images.githubusercontent.com/84756586/184561318-ed507775-5d3e-4cc7-be4d-6cad54ba330f.png)>
-![KakaoTalk_20220802_123457496](https://user-images.githubusercontent.com/84756586/184561326-c69a65cc-1c8e-463f-94f1-a03a65689500.png)>
+![KakaoTalk_20220802_123421372](https://user-images.githubusercontent.com/84756586/184561305-850f2768-d524-475b-9cbc-c2362aa1a88b.png)
+![제목 없음](https://user-images.githubusercontent.com/84756586/184561834-e4ac1978-c3fd-4143-b304-3f6590bc608c.png)
+![KakaoTalk_20220802_123457496](https://user-images.githubusercontent.com/84756586/184561326-c69a65cc-1c8e-463f-94f1-a03a65689500.png)
 
-# 활용/참고 정보
+## 활용/참고 정보
 
-# 영상 유튜브 링크
+## 영상 유튜브 링크
 
-# 팀원 코멘트
+## 팀원 코멘트
+
+이현
+조하연
