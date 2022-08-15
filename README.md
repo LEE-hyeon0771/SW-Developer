@@ -1,10 +1,11 @@
-# 팀명: 모두
-# 프로젝트명: 모두의 키오스크
+#SW Developer
+#### 팀명: 모두
+#### 프로젝트명: 모두의 키오스크
 
 
 # 대표 이미지
 
-# 팀(원) 소개
+## 팀(원) 소개
 | ![](https://github.com/LEE-Hyeon0771.png) |  ![](https://github.com/loosainfjn.png) |
 | :--------------------------------------: | :--------------------------------------: |
 |             **이현<br>(Android Developer)<br>연세대학교 미래캠퍼스**              |            **조하연<br>(Designer, UX/UI, marketer)<br>광운대학교**             |
@@ -25,10 +26,10 @@
 # 동작 방식(프로세스)
 
 # 개발/배포 환경
-<img src = ![KakaoTalk_20220802_123402749](https://user-images.githubusercontent.com/84756586/184561291-93a4f8ac-07dd-40ef-baa2-9e87ec479f98.png)>
-<img src = ![KakaoTalk_20220802_123421372](https://user-images.githubusercontent.com/84756586/184561305-850f2768-d524-475b-9cbc-c2362aa1a88b.png)>
-<img src = ![KakaoTalk_20220802_123438263](https://user-images.githubusercontent.com/84756586/184561318-ed507775-5d3e-4cc7-be4d-6cad54ba330f.png)>
-<img scr = ![KakaoTalk_20220802_123457496](https://user-images.githubusercontent.com/84756586/184561326-c69a65cc-1c8e-463f-94f1-a03a65689500.png)>
+![KakaoTalk_20220802_123402749](https://user-images.githubusercontent.com/84756586/184561291-93a4f8ac-07dd-40ef-baa2-9e87ec479f98.png)
+![KakaoTalk_20220802_123421372](https://user-images.githubusercontent.com/84756586/184561305-850f2768-d524-475b-9cbc-c2362aa1a88b.png)>
+![KakaoTalk_20220802_123438263](https://user-images.githubusercontent.com/84756586/184561318-ed507775-5d3e-4cc7-be4d-6cad54ba330f.png)>
+![KakaoTalk_20220802_123457496](https://user-images.githubusercontent.com/84756586/184561326-c69a65cc-1c8e-463f-94f1-a03a65689500.png)>
 
 # 활용/참고 정보
 
