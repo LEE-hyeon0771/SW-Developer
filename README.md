@@ -27,10 +27,10 @@
 # 동작 방식(프로세스)
 
 # 개발/배포 환경
-<img src1 = ![KakaoTalk_20220802_123402749](https://user-images.githubusercontent.com/84756586/184561291-93a4f8ac-07dd-40ef-baa2-9e87ec479f98.png)>
-<img src2 = ![KakaoTalk_20220802_123421372](https://user-images.githubusercontent.com/84756586/184561305-850f2768-d524-475b-9cbc-c2362aa1a88b.png)>
-<img src3 = ![KakaoTalk_20220802_123438263](https://user-images.githubusercontent.com/84756586/184561318-ed507775-5d3e-4cc7-be4d-6cad54ba330f.png)>
-<img scr4 = ![KakaoTalk_20220802_123457496](https://user-images.githubusercontent.com/84756586/184561326-c69a65cc-1c8e-463f-94f1-a03a65689500.png)>
+<img src = ![KakaoTalk_20220802_123402749](https://user-images.githubusercontent.com/84756586/184561291-93a4f8ac-07dd-40ef-baa2-9e87ec479f98.png)>
+<img src = ![KakaoTalk_20220802_123421372](https://user-images.githubusercontent.com/84756586/184561305-850f2768-d524-475b-9cbc-c2362aa1a88b.png)>
+<img src = ![KakaoTalk_20220802_123438263](https://user-images.githubusercontent.com/84756586/184561318-ed507775-5d3e-4cc7-be4d-6cad54ba330f.png)>
+<img scr = ![KakaoTalk_20220802_123457496](https://user-images.githubusercontent.com/84756586/184561326-c69a65cc-1c8e-463f-94f1-a03a65689500.png)>
 
 # 활용/참고 정보
 
