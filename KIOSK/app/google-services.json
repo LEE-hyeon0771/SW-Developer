@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21089989792",
+    "project_id": "kiosk-5d9a6",
+    "storage_bucket": "kiosk-5d9a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21089989792:android:c149673df0dfcd379fc5c5",
+        "android_client_info": {
+          "package_name": "org.techtown.kiosk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21089989792-r06qqvkl40bnig01jqsvkf4c6hqaqjkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ptJ9100HedY3MPLClYon2OgS9Rv_Iso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21089989792-r06qqvkl40bnig01jqsvkf4c6hqaqjkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
